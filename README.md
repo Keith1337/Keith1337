@@ -1,4 +1,4 @@
-<a href="https://www.keith-drinks.vodka"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=7B7B7BC0&width=435&lines=Sometime+life+gets+fucked+up.;Thats+why+we+get+fucked+up.;Shit+at+Coding;Koks+und+Nutten!" alt="Typing SVG" /></a>
+<a href="https://www.keith-drinks.vodka"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=4B0606&width=435&lines=Sometime+life+gets+fucked+up...;Thats+why+we+get+fucked+up.;Trying+to+learn+C%23+%2F+Python+;Koks+und+Nutten" alt="Typing SVG" /></a>
 
 
 My Discord.
