@@ -1,6 +1,6 @@
 #
 <h1 align="center">
-<a href="https://www.keith-drinks.vodka"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=970606&center=true&vCenter=true&width=435&lines=%E2%9C%97+Keith+%E2%9C%97;Sometime+life+gets+fucked+up...;Thats+why+we+get+fucked+up.;C%23+%2F+Python+beginner.;When+I+die%2C+you'll+love+me." alt="Typing SVG" /></a>
+<a href="https://www.keith-drinks.vodka"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=970606&center=true&vCenter=true&width=435&lines=%E2%9C%97+Keith+%E2%9C%97;Sometime+life+gets+fucked+up...;Thats+why+we+get+fucked+up.;C%23+%2F+Python+beginner.;When+I+die%2C+you'll+love+me." alt="Typing SVG" /></a>
 
 #
 
